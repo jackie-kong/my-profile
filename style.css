@@ -1,0 +1,41 @@
+body {
+	color: rgb(87,87,87);
+	background-color: #fff1e9;
+	text-align: center;
+}
+
+div {
+	background:#ffd5d5;
+	margin: 100px 200px;
+	padding:50px;
+	border-radius:15px;
+	margin:0, auto;
+}
+h1,h2{
+		font-family: chalkduster;
+		color:#fc7fb2;
+		text-decoration-line: underline;
+		font-weight: bold;
+}
+#profile{
+	border-radius: 50%;
+}
+p{
+	font-family: Helvetica;
+}
+
+a{
+	text-decoration: none;
+	font-family: courier;
+	color:#45454d;
+	font-size:16;
+}
+
+ul{
+	list-style: none;
+	padding:0;
+}
+
+li{
+	display: inline-block;
+}
